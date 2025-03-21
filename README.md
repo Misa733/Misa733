@@ -28,7 +28,5 @@
 <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 <a href="https://www.linkedin.com/in/misael-fernandes-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## 🐍 Commits Devorados pela Cobrinha!
 
-![snake gif](https://github.com/Misa733/Misa733/blob/output/github-contribution-grid-snake.svg)
 
